@@ -7,13 +7,9 @@ Se utilizo el patrón de diseño llamado Repository.
 Siguiendo la siguiendo estructura:
 
 -Repository
-
 |
-
 |-->IRepository.cs
-
 |
-
 |-->Repository.cs
 
 ## Paquetes utilizados:
