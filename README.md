@@ -1,9 +1,12 @@
-## Proyecto API Productos
+### Proyecto API Productos
+
 El proyecto de API productos se encuentra construido en C# y Visual Studio 2022.
+
 Con la version de .NET Core 8.
 
 ### Patrón de Diseño.
 Se utilizo el patrón de diseño llamado Repository.
+
 Siguiendo la siguiendo estructura:
 
 -Repository
@@ -42,4 +45,4 @@ System.Data.SqlClient" Version="4.8.6"
   
   "finalPrice": "999"
   
-} API - Products
+}
