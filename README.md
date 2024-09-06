@@ -1,19 +1,19 @@
 ## Proyecto API Productos
-El proyecto de API productos se encuentra construido en C# y Visual Studio 2022.
-Con la version de .NET Core 8.
++El proyecto de API productos se encuentra construido en C# y Visual Studio 2022.
++Con la version de .NET Core 8.
 
 ## Patrón de Diseño.
 Se utilizo el patrón de diseño llamado Repository.
-Siguiendo la siguiendo estructura:
--Repository
-|
-|-->IRepository.cs
-|
-|-->Repository.cs
++Siguiendo la siguiendo estructura:
++-Repository
++|
++|-->IRepository.cs
++|
++|-->Repository.cs
 
 ## Paquetes utilizados:
-System.Data.OleDb" Version="8.0.0" 
-System.Data.SqlClient" Version="4.8.6"
++System.Data.OleDb" Version="8.0.0" 
++System.Data.SqlClient" Version="4.8.6"
 
 ## Estructura utilizada para el JSON
 {
@@ -25,4 +25,4 @@ System.Data.SqlClient" Version="4.8.6"
   "price": "1050",
   "discount": "99",
   "finalPrice": "999"
-}# API - Products
+} API - Products
